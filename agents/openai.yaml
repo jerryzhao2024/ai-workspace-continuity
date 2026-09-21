@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Workspace Continuity"
+  short_description: "Keep project context independent of AI tools"
+  default_prompt: "Use $ai-workspace-continuity to audit this project and make its context durable across AI tools."
