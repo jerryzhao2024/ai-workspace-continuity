@@ -2,7 +2,7 @@
 
 A Codex skill for making project context durable across AI providers, agents, accounts, and sessions.
 
-**Version:** `1.0.0`
+**Version:** `1.0.1`
 
 ## What It Does
 
@@ -89,3 +89,7 @@ python -m py_compile scripts/audit_workspace.py scripts/init_workspace.py
 ## Changelog
 
 See `CHANGELOG.md`.
+
+## License
+
+MIT License. See `LICENSE`.

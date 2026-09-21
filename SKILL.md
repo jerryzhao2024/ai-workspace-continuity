@@ -1,9 +1,10 @@
 ---
 name: ai-workspace-continuity
+license: MIT
 description: "Create, audit, or update durable, model-agnostic AI project workspaces. Use when project context, decisions, code, data, or delivery assets must survive changes of AI provider, agent, account, or session; or when a project needs README/AGENTS context, AI_History decision records, Git checkpoints, backup boundaries, or secret hygiene."
 metadata:
-  version: 1.0.0
-  updated: 2026-09-21
+  version: 1.0.1
+  updated: 2026-09-22
 ---
 
 # AI Workspace Continuity
